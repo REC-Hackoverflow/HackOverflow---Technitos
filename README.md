@@ -1,2 +1,5 @@
 # HackOverflow---Technitos
-Git Repo for hackoverflow hackathon. 
+Sign - IT
+
+An app for the disabled to communicate via sign language and automate basic app processes
+
